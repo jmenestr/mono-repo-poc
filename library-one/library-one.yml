@@ -5,4 +5,5 @@ metadata:
   description: Our shared library
 spec:
   type: library
+  owner: team-a
   lifecycle: production
