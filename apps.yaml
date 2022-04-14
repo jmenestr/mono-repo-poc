@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Location
+metadata:
+  name: example-websites
+  description: A collection of all Backstage example components
+spec:
+  targets:
+    - ./app-one/app-one.yaml
+    - ./app-two/app-one.yaml

@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: app-one
+  description: An example of a Backstage application.
+spec:
+  type: website
+  owner: team-a
+  lifecycle: experimental

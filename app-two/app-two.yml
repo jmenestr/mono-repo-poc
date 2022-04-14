@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: app-two
+  description: An example of a Backstage application.
+spec:
+  type: website
+  owner: team-b
+  lifecycle: experimental
+  dependsOn:
+    - library:library-one
