@@ -7,3 +7,4 @@ spec:
   targets:
     - ./app-one/app-one.yml
     - ./app-two/app-two.yml
+    - ./library-one/library-one.yml
