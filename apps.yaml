@@ -5,5 +5,5 @@ metadata:
   description: A collection of all Backstage example components
 spec:
   targets:
-    - ./app-one/app-one.yaml
-    - ./app-two/app-one.yaml
+    - ./app-one/app-one.yml
+    - ./app-two/app-two.yml
